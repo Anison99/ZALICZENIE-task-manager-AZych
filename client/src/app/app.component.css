@@ -1,0 +1,5 @@
+:host {
+    display: block;
+    background-color:royalblue;
+    height: 100vh; /* Opcjonalnie, aby ustawić wysokość na całą wysokość ekranu */
+  }
